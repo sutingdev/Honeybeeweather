@@ -1,0 +1,11 @@
+<litepal>
+    <dbname value="honey weather"/>
+
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.example.a19310_000.honeyweather.db.Province"/>
+        <mapping class="com.example.a19310_000.honeyweather.db.City"/>
+        <mapping class="com.example.a19310_000.honeyweather.db.County"/>
+    </list>
+</litepal>
